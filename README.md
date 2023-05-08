@@ -31,7 +31,7 @@ new cluster center. This process occurs until there is no shift in the cluster c
 
 <table>
  <tr>
-   <td><img src="Media/Q4image.png"  alt="1" width = 360px height = 640px ><p align='center'> Original Image </p></td>
+   <td><img src="Media/Q4image.png"  alt="Q4image.png" width = 360px height = 640px ><p align='center'> Original Image </p></td>
    <td><img src="Results/question_4/Kmean_1_cluster.jpg"  alt="1" width = 360px height = 640px ><p align='center'> Cluster 1 </p></td>
  </tr>
  <tr>

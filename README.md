@@ -26,3 +26,20 @@ new cluster center. This process occurs until there is no shift in the cluster c
  ┣ 📜README.md
  ┗ 📜k_means_clustering.py
 ```
+
+## Results
+
+<table>
+ <tr>
+   <td><img src="Media/Q4image.png"  alt="1" width = 360px height = 640px ><p align='center'> Original Image </p><</td>
+   <td><img src="Results/question_4/Kmean_1_cluster.jpg"  alt="1" width = 360px height = 640px ><p align='center'> Cluster 1 </p><</td>
+ </tr>
+ <tr>
+   <td><img src="Results/question_4/Kmean_2_cluster.jpg"  alt="1" width = 360px height = 640px ><p align='center'> Cluster 2 </p><</td>
+   <td><img src="Results/question_4/Kmean_3_cluster.jpg"  alt="1" width = 360px height = 640px ><p align='center'> Cluster 3 </p><</td>
+ </tr>
+ <tr>
+   <td><img src="Results/question_4/Kmean_4_cluster.jpg"  alt="1" width = 360px height = 640px ><p align='center'> Cluster 4 </p><</td>
+   <td><img src="Results/question_4/question_4_results.jpg"  alt="1" width = 360px height = 640px ><p align='center'> Results </p><</td>
+ </tr>
+</table>

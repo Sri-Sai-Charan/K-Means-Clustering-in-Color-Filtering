@@ -10,6 +10,8 @@ ues and calculate the difference and based on the lowest difference which cluste
 If the distance in the BGR channels is lower ie if a different cluster ’k’ is closer then that particular pixel is assigned to that channel. This updates the points and once the entire image have been passed through the average of all BGR values in a given cluster is calculated and assigned as the
 new cluster center. This process occurs until there is no shift in the cluster centers between iterations.
 
+
+
 ## Folder Structure:
 ```
 📦K-Means-Clusturing-in-Color-Filtering
@@ -26,7 +28,10 @@ new cluster center. This process occurs until there is no shift in the cluster c
  ┣ 📜README.md
  ┗ 📜k_means_clustering.py
 ```
-
+## Usage
+```
+python3 k_means_clustering.py
+```
 ## Results
 
 <table>
